@@ -3,7 +3,7 @@
 A relational database (MySQL) with a MongoDB migration and a dashboard, built with the official
 **INEGI** inflation data for Mexico.
 
-**Author:** _[Your name]_ · **Course:** _[Course name]_ · **Date:** November 2026
+**Author:** _Mendoza Leonel_ · **Course:** _Base de Datos Avanzada_ ·
 
 ---
 
