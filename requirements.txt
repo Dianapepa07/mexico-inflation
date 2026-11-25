@@ -1,0 +1,5 @@
+PyMySQL>=1.1
+cryptography>=42
+pymongo>=4.6
+pandas>=2.0
+streamlit>=1.35

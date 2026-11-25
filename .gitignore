@@ -1,0 +1,13 @@
+# Passwords and local configuration (DO NOT upload)
+config.py
+
+# Python / PyCharm
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
